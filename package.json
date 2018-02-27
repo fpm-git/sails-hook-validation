@@ -1,5 +1,5 @@
 {
-    "name": "@floatplane/sails-hook-validation",
+    "name": "sails-hook-validation",
     "version": "0.5.0",
     "description": "Custom validation error messages for sails model with i18n support",
     "main": "index.js",
